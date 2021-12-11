@@ -24,6 +24,22 @@
 
 ---
 
+## 💾 **ABOUT**
+
+---
+
+## 🗒️ **INSTALLATION**
+
+---
+
+## 🔎 **USAGE**
+
+---
+
+## 💻 **TECHNOLOGIES**
+
+---
+
 ## 📎 **LICENSE**
 
 MIT License
@@ -38,7 +54,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-## 👨‍💻 **LINKS**
+## 📌 **LINKS**
 
 [<img alt="Gmail" src="https://img.shields.io/badge/[username]-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]()
 [<img alt="Twitter" src="https://img.shields.io/badge/[username]-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/[username])
