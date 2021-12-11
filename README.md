@@ -1,6 +1,6 @@
 <div align='center'>
-    <h1><b>🎂 **PROJECTNAME** 🎂</b></h1>
-    <img src='' width='200' height='200' />
+    <h1><b>🎂 [PROJECTNAME] 🎂</b></h1>
+    <img src='' width='250' height='250' />
     <p>Short description of the project.</p>
 
 ![Python](https://badgen.net/badge/Python/[version]/blue?)
@@ -25,6 +25,16 @@
 ---
 
 ## 💾 **ABOUT**
+
+This is the **only** _README template_ for your project you will ever need in your life - **trust me**
+
+Why is that?
+
+- I'm god
+- My wisdom is endless
+- I spent thousands of hours creating this template
+
+Feel free to use it everytime and everywhere! `Open Source!`
 
 <br />
 
