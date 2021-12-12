@@ -126,7 +126,9 @@ docker run -ti username/dockerimage:version
 
 ---
 
-## 🔎 **USAGE**
+## 🔎 **SHOWCASE**
+
+additional images, gifs or videos of your project
 
 <br />
 
