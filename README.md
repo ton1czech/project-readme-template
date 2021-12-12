@@ -26,21 +26,101 @@
 
 ## 💾 **ABOUT**
 
-This is the **only** _README template_ for your project you will ever need in your life - **trust me**
+this is the **only** _README template_ for your project you will ever need in your life - **trust me**
 
-Why is that?
+why is that?
 
 - I'm god
-- My wisdom is endless
+- my wisdom is endless
 - I spent thousands of hours creating this template
 
-Feel free to use it everytime and everywhere! `Open Source!`
+feel free to use it everytime and everywhere! `open source!`
 
 <br />
 
 ---
 
 ## 🗒️ **INSTALLATION**
+
+### local installation:
+
+1. clone the repo
+
+```
+git clone https://github.com/username/repo
+```
+
+2. cd into cloned repo
+
+```
+cd repo
+```
+
+3. install dependencies
+
+```
+pip3 install -r requirements.txt
+```
+
+```
+yarn add react/icons
+```
+
+```
+npm install express
+```
+
+4. run the app
+
+```
+python3 main.py
+```
+
+```
+yarn dev
+```
+
+```
+npm run start
+```
+
+<br />
+
+### local installation via docker:
+
+1. clone the repo
+
+```
+git clone https://github.com/username/repo
+```
+
+2. cd into cloned repo
+
+```
+cd repo
+```
+
+3. build the app
+
+```
+docker build -t app .
+```
+
+4. run the app
+
+```
+docker run -ti app
+```
+
+<br/>
+
+### run remotely via docker:
+
+1. run the app
+
+```
+docker run -ti username/dockerimage:version
+```
 
 <br />
 
@@ -215,6 +295,11 @@ Feel free to use it everytime and everywhere! `Open Source!`
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+for more badges visit:
+
+- https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
+- https://github.com/Ileriayo/markdown-badges
 
 <br />
 
